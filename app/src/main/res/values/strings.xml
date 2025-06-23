@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eva1</string>
+
+    <string-array name="Datos">
+        <item>Nombre</item>
+        <item>Cedula</item>
+        <item>Telefono</item>
+
+    </string-array>
+
+
+</resources>
